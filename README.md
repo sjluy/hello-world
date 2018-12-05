@@ -12,4 +12,4 @@ hello world project
 
 > **正则表达式**
 
-*[1](notes/reg1.md)
+* [1](notes/reg1.md)
