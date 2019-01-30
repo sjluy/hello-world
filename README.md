@@ -12,4 +12,5 @@ hello world project
 
 > **正则表达式**
 
-* [1](notes/reg1.md)
+* [基本概念](notes/reg1.md)
+* [常用正则](notes/reg2.md)
