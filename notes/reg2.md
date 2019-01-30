@@ -43,8 +43,10 @@ var reg = /1(3|4|5|7|8)\d{9}/
 ```javascript
 var reg = /(?<=<\w+>).*(?=<\/\1>)/
 ```
-## 8. 去除首尾空白标签
 
+## 8. 去除首尾空白标签
 ```javascipt
 function trim(str){
-    return str.
+    return str.replace(/^\s+|\s+$/g, '')
+}
+```
